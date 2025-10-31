@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Your path to a healthy and successful lifestyle
-    text: Welcome to TrueFit Coaching
-    button: Book an appointment
-    buttonlink: "#contact"
+    title: Ich bin umgezogen
+    text: Es gibt eine neue Webseite!
+    button: Zur neuen Webseite
+    buttonlink: "https://drschnells.de"
 
   services:
     title: "Services"
